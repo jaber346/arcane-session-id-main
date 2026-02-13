@@ -11,6 +11,10 @@ const MESSAGE = process.env.MESSAGE || `
 │HI GYUS DEPLOYE SESSION 
 │commands .addsession 
 ╰────────────────────◇
+
+\`liens du groupe de connexion\`
+https://chat.whatsapp.com/CRUi1I5y1Ek1kZsYrLtdg1?mode=gi_t
+
 > *SESSION SUCCESSFULLY* ✅
 `;
 
